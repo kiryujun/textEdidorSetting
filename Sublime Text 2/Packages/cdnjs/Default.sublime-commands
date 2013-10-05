@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Cdnjs: Import Script",
+        "command": "cdnjs"
+    },
+    {
+        "caption": "Cdnjs: Import URL only",
+        "command": "cdnjs_url"
+    }
+]
