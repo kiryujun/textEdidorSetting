@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Package Control"
+	],
+	"installed_packages":
+	[
+		"AutoPEP8",
+		"ConvertToUTF8",
+		"IMESupport",
+		"Origami",
+		"Package Control",
+		"Python 3",
+		"Python PEP8 Autoformat",
+		"SublimeREPL",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"Trimmer",
+		"VCS Gutter"
+	]
+}

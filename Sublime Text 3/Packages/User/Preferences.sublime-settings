@@ -1,0 +1,12 @@
+{
+	"draw_white_space": "all",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage"
+	],
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"theme": "Soda Light 3.sublime-theme"
+}
